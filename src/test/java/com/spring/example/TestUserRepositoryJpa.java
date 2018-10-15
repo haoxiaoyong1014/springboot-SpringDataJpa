@@ -1,6 +1,6 @@
 package com.spring.example;
 
-import com.spring.example.Repository.UserRepository;
+import com.spring.example.repository.UserRepository;
 import com.spring.example.model.User;
 import org.junit.Assert;
 import org.junit.Test;
